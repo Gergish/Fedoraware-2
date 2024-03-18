@@ -1,11 +1,4 @@
-<p align="center">
-  <img src=".github/assets/Logo_Animated.svg" alt="Fedoraware Logo" width="250" align="center">
-  <br/>
-  <a href="https://nightly.link/Fedoraware/Fedoraware/workflows/msbuild/main/Fedoraware.zip">
-    <img src=".github/assets/download.png" alt="Download Button" width="400" height="auto" align="center">
-  </a>
-</p>
-
+Put the compiled dll in releases pls
 
 Fedora A free and open-source training software for Team Fortress 2, based on [SE-Owned](https://www.unknowncheats.me/forum/team-fortress-2-a/436430-seowned-featured-cheat.html).
 
